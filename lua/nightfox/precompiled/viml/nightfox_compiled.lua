@@ -99,7 +99,7 @@ highlight DiagnosticVirtualTextInfo guifg=#719cd6 guibg=#2b3b51 gui=NONE guisp=N
 highlight DiagnosticVirtualTextWarn guifg=#dbc074 guibg=#40423e gui=NONE guisp=NONE |
 highlight DiagnosticWarn guifg=#dbc074 guibg=NONE gui=NONE guisp=NONE |
 highlight DiffAdd guifg=NONE guibg=#26343c gui=NONE guisp=NONE |
-highlight DiffChange guifg=NONE guibg=#243244 gui=NONE guisp=NONE |
+highlight DiffChange guifg=NONE guibg=#233144 gui=NONE guisp=NONE |
 highlight DiffDelete guifg=NONE guibg=#2f2837 gui=NONE guisp=NONE |
 highlight DiffText guifg=NONE guibg=#253f4a gui=NONE guisp=NONE |
 highlight Directory guifg=#86abdc guibg=NONE gui=NONE guisp=NONE |
@@ -132,7 +132,7 @@ highlight GlyphPalette5 guifg=#9d79d6 guibg=NONE gui=NONE guisp=NONE |
 highlight GlyphPalette6 guifg=#63cdcf guibg=NONE gui=NONE guisp=NONE |
 highlight GlyphPalette7 guifg=#e4e4e5 guibg=NONE gui=NONE guisp=NONE |
 highlight GlyphPalette8 guifg=#575860 guibg=NONE gui=NONE guisp=NONE |
-highlight GlyphPalette9 guifg=#d16983 guibg=NONE gui=NONE guisp=NONE |
+highlight GlyphPalette9 guifg=#d16982 guibg=NONE gui=NONE guisp=NONE |
 highlight HopNextKey guifg=#63cdcf guibg=NONE gui=bold guisp=NONE |
 highlight HopNextKey1 guifg=#719cd6 guibg=NONE gui=bold guisp=NONE |
 highlight HopNextKey2 guifg=#6085b6 guibg=NONE gui=NONE guisp=NONE |
@@ -279,7 +279,7 @@ highlight String guifg=#81b29a guibg=NONE gui=NONE guisp=NONE |
 highlight Substitute guifg=#192330 guibg=#c94f6d gui=NONE guisp=NONE |
 highlight TabLine guifg=#aeafb0 guibg=#212e3f gui=NONE guisp=NONE |
 highlight TabLineFill guifg=NONE guibg=#131a24 gui=NONE guisp=NONE |
-highlight TabLineSel guifg=#192330 guibg=#71839b gui=NONE guisp=NONE |
+highlight TabLineSel guifg=#cdcecf guibg=#71839b gui=NONE guisp=NONE |
 highlight TelescopeBorder guifg=#39506d guibg=NONE gui=NONE guisp=NONE |
 highlight TelescopeSelectionCaret guifg=#81b29a guibg=NONE gui=NONE guisp=NONE |
 highlight Title guifg=#86abdc guibg=NONE gui=NONE guisp=NONE |
@@ -422,7 +422,7 @@ highlight! link qfLineNr lineNr
 local function set_terminal()
    -- stylua: ignore
   local colors = {
-    "#393b44", "#c94f6d", "#81b29a", "#dbc074", "#719cd6", "#9d79d6", "#63cdcf", "#dfdfe0", "#575860", "#d16983", "#8ebaa4", "#e0c989", "#86abdc", "#baa1e2", "#7ad4d6", "#e4e4e5",
+    "#393b44", "#c94f6d", "#81b29a", "#dbc074", "#719cd6", "#9d79d6", "#63cdcf", "#dfdfe0", "#575860", "#d16982", "#8ebaa4", "#e0c989", "#86abdc", "#baa1e2", "#7ad4d6", "#e4e4e5",
   }
   for i, c in ipairs(colors) do
     local n = "terminal_color_" .. i - 1

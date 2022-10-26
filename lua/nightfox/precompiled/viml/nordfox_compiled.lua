@@ -279,7 +279,7 @@ highlight String guifg=#a3be8c guibg=NONE gui=NONE guisp=NONE |
 highlight Substitute guifg=#2e3440 guibg=#bf616a gui=NONE guisp=NONE |
 highlight TabLine guifg=#abb1bb guibg=#39404f gui=NONE guisp=NONE |
 highlight TabLineFill guifg=NONE guibg=#232831 gui=NONE guisp=NONE |
-highlight TabLineSel guifg=#2e3440 guibg=#7e8188 gui=NONE guisp=NONE |
+highlight TabLineSel guifg=#cdcecf guibg=#7e8188 gui=NONE guisp=NONE |
 highlight TelescopeBorder guifg=#5a657d guibg=NONE gui=NONE guisp=NONE |
 highlight TelescopeSelectionCaret guifg=#a3be8c guibg=NONE gui=NONE guisp=NONE |
 highlight Title guifg=#8cafd2 guibg=NONE gui=NONE guisp=NONE |

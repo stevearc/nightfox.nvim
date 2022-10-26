@@ -45,7 +45,7 @@ highlight BufferCurrentSign guifg=#5a93aa guibg=#587b7b gui=NONE guisp=NONE |
 highlight BufferCurrentTarget guifg=#e85c51 guibg=#587b7b gui=NONE guisp=NONE |
 highlight BufferInactive guifg=#6d7f8b guibg=#0f1c1e gui=NONE guisp=NONE |
 highlight BufferInactiveIndex guifg=#6d7f8b guibg=#0f1c1e gui=NONE guisp=NONE |
-highlight BufferInactiveMod guifg=#383835 guibg=#0f1c1e gui=NONE guisp=NONE |
+highlight BufferInactiveMod guifg=#373835 guibg=#0f1c1e gui=NONE guisp=NONE |
 highlight BufferInactiveSign guifg=#254147 guibg=#0f1c1e gui=NONE guisp=NONE |
 highlight BufferInactiveTarget guifg=#e85c51 guibg=#0f1c1e gui=NONE guisp=NONE |
 highlight BufferTabpage guifg=#254147 guibg=#0f1c1e gui=NONE guisp=NONE |
@@ -95,8 +95,8 @@ highlight DiagnosticUnderlineInfo guifg=NONE guibg=NONE gui=undercurl guisp=#5a9
 highlight DiagnosticUnderlineWarn guifg=NONE guibg=NONE gui=undercurl guisp=#fda47f |
 highlight DiagnosticVirtualTextError guifg=#e85c51 guibg=#352d2e gui=NONE guisp=NONE |
 highlight DiagnosticVirtualTextHint guifg=#7aa4a1 guibg=#24383a gui=NONE guisp=NONE |
-highlight DiagnosticVirtualTextInfo guifg=#5a93aa guibg=#1f353c gui=NONE guisp=NONE |
-highlight DiagnosticVirtualTextWarn guifg=#fda47f guibg=#383835 gui=NONE guisp=NONE |
+highlight DiagnosticVirtualTextInfo guifg=#5a93aa guibg=#1f363b gui=NONE guisp=NONE |
+highlight DiagnosticVirtualTextWarn guifg=#fda47f guibg=#373835 gui=NONE guisp=NONE |
 highlight DiagnosticWarn guifg=#fda47f guibg=NONE gui=NONE guisp=NONE |
 highlight DiffAdd guifg=NONE guibg=#293e40 gui=NONE guisp=NONE |
 highlight DiffChange guifg=NONE guibg=#31474b gui=NONE guisp=NONE |
@@ -279,7 +279,7 @@ highlight String guifg=#7aa4a1 guibg=NONE gui=NONE guisp=NONE |
 highlight Substitute guifg=#152528 guibg=#e85c51 gui=NONE guisp=NONE |
 highlight TabLine guifg=#cbd9d8 guibg=#1d3337 gui=NONE guisp=NONE |
 highlight TabLineFill guifg=NONE guibg=#0f1c1e gui=NONE guisp=NONE |
-highlight TabLineSel guifg=#152528 guibg=#587b7b gui=NONE guisp=NONE |
+highlight TabLineSel guifg=#e6eaea guibg=#587b7b gui=NONE guisp=NONE |
 highlight TelescopeBorder guifg=#2d4f56 guibg=NONE gui=NONE guisp=NONE |
 highlight TelescopeSelectionCaret guifg=#7aa4a1 guibg=NONE gui=NONE guisp=NONE |
 highlight Title guifg=#73a3b7 guibg=NONE gui=NONE guisp=NONE |

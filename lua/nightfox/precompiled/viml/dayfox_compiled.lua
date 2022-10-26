@@ -93,7 +93,7 @@ highlight DiagnosticUnderlineError guifg=NONE guibg=NONE gui=undercurl guisp=#b9
 highlight DiagnosticUnderlineHint guifg=NONE guibg=NONE gui=undercurl guisp=#618774 |
 highlight DiagnosticUnderlineInfo guifg=NONE guibg=NONE gui=undercurl guisp=#4d688e |
 highlight DiagnosticUnderlineWarn guifg=NONE guibg=NONE gui=undercurl guisp=#ba793e |
-highlight DiagnosticVirtualTextError guifg=#b95d76 guibg=#dbc0c7 gui=NONE guisp=NONE |
+highlight DiagnosticVirtualTextError guifg=#b95d76 guibg=#dbbfc7 gui=NONE guisp=NONE |
 highlight DiagnosticVirtualTextHint guifg=#618774 guibg=#c1ccc7 gui=NONE guisp=NONE |
 highlight DiagnosticVirtualTextInfo guifg=#4d688e guibg=#bbc3ce gui=NONE guisp=NONE |
 highlight DiagnosticVirtualTextWarn guifg=#ba793e guibg=#dcc8b6 gui=NONE guisp=NONE |
@@ -279,7 +279,7 @@ highlight String guifg=#618774 guibg=NONE gui=NONE guisp=NONE |
 highlight Substitute guifg=#eaeaea guibg=#b95d76 gui=NONE guisp=NONE |
 highlight TabLine guifg=#233f5e guibg=#dbcece gui=NONE guisp=NONE |
 highlight TabLineFill guifg=NONE guibg=#dbdbdb gui=NONE guisp=NONE |
-highlight TabLineSel guifg=#eaeaea guibg=#2e537d gui=NONE guisp=NONE |
+highlight TabLineSel guifg=#1d344f guibg=#2e537d gui=NONE guisp=NONE |
 highlight TelescopeBorder guifg=#bebebe guibg=NONE gui=NONE guisp=NONE |
 highlight TelescopeSelectionCaret guifg=#618774 guibg=NONE gui=NONE guisp=NONE |
 highlight Title guifg=#485e7d guibg=NONE gui=NONE guisp=NONE |

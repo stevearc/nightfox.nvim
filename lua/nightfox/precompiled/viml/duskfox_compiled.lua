@@ -232,7 +232,7 @@ highlight NotifyDEBUGBorder guifg=#637061 guibg=NONE gui=NONE guisp=NONE |
 highlight NotifyDEBUGTitle guifg=#a3be8c guibg=NONE gui=NONE guisp=NONE |
 highlight NotifyERRORBorder guifg=#874864 guibg=NONE gui=NONE guisp=NONE |
 highlight NotifyERRORTitle guifg=#eb6f92 guibg=NONE gui=NONE guisp=NONE |
-highlight NotifyINFOBorder guifg=#3d6078 guibg=NONE gui=NONE guisp=NONE |
+highlight NotifyINFOBorder guifg=#3c6078 guibg=NONE gui=NONE guisp=NONE |
 highlight NotifyINFOTitle guifg=#569fba guibg=NONE gui=NONE guisp=NONE |
 highlight NotifyTRACEBorder guifg=#4b4673 guibg=NONE gui=NONE guisp=NONE |
 highlight NotifyTRACETitle guifg=#817c9c guibg=NONE gui=NONE guisp=NONE |
@@ -279,7 +279,7 @@ highlight String guifg=#a3be8c guibg=NONE gui=NONE guisp=NONE |
 highlight Substitute guifg=#232136 guibg=#eb6f92 gui=NONE guisp=NONE |
 highlight TabLine guifg=#cdcbe0 guibg=#2d2a45 gui=NONE guisp=NONE |
 highlight TabLineFill guifg=NONE guibg=#191726 gui=NONE guisp=NONE |
-highlight TabLineSel guifg=#232136 guibg=#6e6a86 gui=NONE guisp=NONE |
+highlight TabLineSel guifg=#e0def4 guibg=#6e6a86 gui=NONE guisp=NONE |
 highlight TelescopeBorder guifg=#4b4673 guibg=NONE gui=NONE guisp=NONE |
 highlight TelescopeSelectionCaret guifg=#a3be8c guibg=NONE gui=NONE guisp=NONE |
 highlight Title guifg=#65b1cd guibg=NONE gui=NONE guisp=NONE |
